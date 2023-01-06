@@ -7,7 +7,7 @@ A set of testing data was stored in the folder "Data"
 
 ## Requirements
 This code has been tested On Ubuntu 18.04  
-The required 3rd library is listed as follow：  
+The required 3rd libraries are listed as follow：  
 Python        =3.6  
 TensorFlow    =1.10  
 cudatoolkit   =9.0  
