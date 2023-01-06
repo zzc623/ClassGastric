@@ -20,3 +20,7 @@ opencv-python =4.5.1.48
 xlrd  
 pydicom  
 
+
+## How to run  
+1、Run the “ROI_Extract.py” to pre-process the patient data and convert the dicom into npy.    
+2、Run the "Train.py" to re-train the well-designed model.  
