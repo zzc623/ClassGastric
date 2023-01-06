@@ -2,10 +2,10 @@
 This is implementation for the submitted paper “Biology-guided Deep Learning Predicts Prognosis and Cancer Immunotherapy Response”
 
 
-##Data
+## Data
 
 
-##Requirements
+## Requirements
 This code has been tested On Ubuntu 18.04
 The required 3rd library is listed as follow：
 Python        3.6
