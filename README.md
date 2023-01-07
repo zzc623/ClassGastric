@@ -3,7 +3,7 @@ This is the implementation of the submitted paper “Biology-guided Deep Learnin
 
 
 ## Data
-A set of testing data was stored in the folder "Data"
+A set of sample was stored in the folder "Data"
 
 ## Requirements
 This code has been tested On Ubuntu 18.04  
